@@ -1,0 +1,13 @@
+streamlit>=1.31.0
+PyPDF2>=3.0.0
+langchain>=0.1.0
+langchain-google-genai>=0.0.5
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+pdfplumber>=0.10.3
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+faiss-cpu>=1.7.4
+langchain-community>=0.0.13
+langdetect>=1.0.9
+gTTS>=2.3.2
